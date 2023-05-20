@@ -29,7 +29,12 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh950925&layout=compact)](https://github.com/jh950925/github-readme-stats)
   
-
+  
+<br><br><br>
+  
+  
+[![Velog's GitHub stats](https://tistory-readme-stats.vercel.app/api?name=jh950925&color=dark)](https://jh950925.tistory.com/)
+  
 </div>
 
 
