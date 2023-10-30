@@ -23,8 +23,8 @@
    <br/>
    <br/>
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh950925@naver.com)](https://solved.ac/jh950925@naver.com/)
+ stats](https://github-readme-stats.vercel.app/api?username=jh950925&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh950925)](https://solved.ac/jh950925/)
 
  
 #### :pencil2: Study log
