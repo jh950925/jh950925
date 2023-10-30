@@ -23,7 +23,7 @@
    <br/>
    <br/>
 
- stats](https://github-readme-stats.vercel.app/api?username=jh950925&show_icons=true&theme=radical)
+ [![kjh's Github](https://github-readme-stats.vercel.app/api?username=jh950925)](https://github.com/jh950925/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh950925)](https://solved.ac/jh950925/)
 
  
