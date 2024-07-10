@@ -37,8 +37,6 @@
 <br><br><br>
   
   
-[![Velog's GitHub stats](https://tistory-readme-stats.vercel.app/api?name=jh950925&color=dark)](https://jh950925.tistory.com/)
-  
 </div>
 
 
